@@ -46,10 +46,10 @@ streamlit run app.py
 
 | Componente | Tecnologia | Versão | Descrição |
 | :--- | :--- | :--- | :--- |
-| **Frontend/App** | **Streamlit** | `1.32.2` | Framework utilizado para o desenvolvimento do dashboard interativo |
-| **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca utilizada para manipulação de dados |
+| **Frontend/App** | **Streamlit** | `1.32.2` | Framework para desenvolvimento de aplicativo web ||
+| **Análise de Dados** | **Pandas** | `2.2.1` | Biblioteca para manipulação de dados |
 | **Visualização** | **Plotly** |`5.20.0` | Biblioteca para criação de gráficos dinâmicos e interativos |
-| **Linguagem** | **Python** | `>=3.11` | Linguagem de programação base para o desenvolvimento dos scripts |
+| **Linguagem** | **Python** | `>=3.11` | Linguagem para desenvolvimento de scripts 
 | **Gerenciamento** | **Venv** | `-` | Gerenciador de ambientes virtuais para isolamento de dependências |
 
 ### Fonte de Dados
@@ -62,4 +62,4 @@ Link para a base de dados: http://vitibrasil.cnpuv.embrapa.br/index.php?opcao=op
 
 O aplicativo web está disponível via Streamlit Cloud.
 
-Link para o aplicativo: https://postechtechchallengefase1-nzyixopq8dxumqrhuvfe7r.streamlit.app/
+Link para o aplicativo web: https://postechtechchallengefase1-nzyixopq8dxumqrhuvfe7r.streamlit.app/
